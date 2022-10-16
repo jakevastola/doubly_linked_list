@@ -47,3 +47,4 @@ Just deleted 40:
 
 
 ## License
+This repository is licensed under the MIT License.
