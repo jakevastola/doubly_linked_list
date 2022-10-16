@@ -8,6 +8,8 @@ This repository is an example of how I was able to:
 * Create a pull request
 * Create and merge a branch
 
+![Alt text](sample_output_pic.png)
+
 ## Downloading
 #### Method 1: Manual Download
 1. Click the green button `Code` to reveal a dropdown menu.
