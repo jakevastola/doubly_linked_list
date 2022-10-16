@@ -121,14 +121,6 @@ node* delete_node(node* root, int value)
     // The node that will be deleted has its position replaced by the node after.
     temp2->next = temp2->next->next;
 
-       
-/*
-    // If the node to be deleted is NOT NULL
-    if(temp2->next!=NULL) {
-        // Links the node after the deleted node to the node before the deleted node.
-        temp2->next->prev = temp2;
-    }
-*/
     // If the node after the to-be-deleted node is NOT NULL
     if(temp2->next->next!=NULL)
     {
